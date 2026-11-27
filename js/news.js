@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T12:26:08.670Z
+// Last updated: 2026-11-27T12:48:33.853Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "外媒：哈馬斯領導人之子在加沙遭以軍空襲　狀況未明",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203084664508518400870491.jpeg/fwOzd0wiA5-1YJvKXUCbMRp_jFufoaaKO9ANZzvQDWc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415798/%E5%A4%96%E5%AA%92-%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E5%B0%8E%E4%BA%BA%E4%B9%8B%E5%AD%90%E5%9C%A8%E5%8A%A0%E6%B2%99%E9%81%AD%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2-%E7%8B%80%E6%B3%81%E6%9C%AA%E6%98%8E",
+    "timestamp": "2026-11-27T12:48:33.853Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "神舟廿四號｜巴基斯坦航天員首登天宮　中巴「鐵杆友誼」飛向太空",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202977717545340928152043.jpeg/o4rbzLhX3nuZRlbNJDTxD0v5sKy6qqxgfJb2R3yW9kc?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415599/%E9%9D%92%E8%A1%A3%E6%92%9E%E8%88%B9-%E8%88%AA%E6%8B%8D-%E6%96%B0%E8%BF%85%E9%9A%86%E8%B2%B3%E8%99%9F-%E6%95%B4%E9%AB%94%E6%90%8D%E6%AF%80%E4%B8%8D%E5%9A%B4%E9%87%8D-%E9%9B%86%E4%B8%AD10%E7%B1%B3%E6%BF%B6%E8%88%B9%E9%A0%AD",
     "timestamp": "2026-11-27T05:45:56.355Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港股明年鹹魚翻身？　滙豐私銀力撐︰目標3萬點　看好AI及高息股",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172584627269799936814260.jpeg/7NfyXHXgLq5Kfv_O5mRbxK25VRovOctu2mWTh9plk4c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415582/%E6%B8%AF%E8%82%A1%E6%98%8E%E5%B9%B4%E9%B9%B9%E9%AD%9A%E7%BF%BB%E8%BA%AB-%E6%BB%99%E8%B1%90%E7%A7%81%E9%8A%80%E5%8A%9B%E6%92%90-%E7%9B%AE%E6%A8%993%E8%90%AC%E9%BB%9E-%E7%9C%8B%E5%A5%BDai%E5%8F%8A%E9%AB%98%E6%81%AF%E8%82%A1",
-    "timestamp": "2026-11-27T05:31:43.912Z",
     "strategy": ".content-card__main"
   }
 ];
