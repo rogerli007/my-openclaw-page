@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T13:20:19.752Z
+// Last updated: 2026-11-27T13:59:06.059Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西貢大網仔路石岸間驚現懷疑人類頭骨　警檢走化驗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251029/1060122672991571968185306.jpeg/-RAJ4XpBcNJ9t8J4pE7yHggBnJZV3metFzCtbhcwrW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415816/%E8%A5%BF%E8%B2%A2%E5%A4%A7%E7%B6%B2%E4%BB%94%E8%B7%AF%E7%9F%B3%E5%B2%B8%E9%96%93%E9%A9%9A%E7%8F%BE%E6%87%B7%E7%96%91%E4%BA%BA%E9%A1%9E%E9%A0%AD%E9%AA%A8-%E8%AD%A6%E6%AA%A2%E8%B5%B0%E5%8C%96%E9%A9%97",
+    "timestamp": "2026-11-27T13:59:06.059Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "圭賢演唱會2027香港｜亞博開2場門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202990211051556864904628.jpeg/qGvLbZxj7YHJd6W6patM6X_a8TocQRmxXnRuol50bqI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415603/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B0%96%E6%B2%99%E5%92%80%E9%87%8D%E6%85%B6%E5%A4%A7%E5%BB%88%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E5%80%92%E8%87%A5%E5%A4%A9%E4%BA%95-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-11-27T06:28:30.889Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "盲目補鋅反致缺銅？32歲女白血球暴跌險失免疫力 鋅銅失衡4大症狀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202640134764236800782136.jpeg/t_S1x1uTYIR4RfWcOrEkcmusnXYPQYBnGi9iHhovYh4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60415122/%E7%9B%B2%E7%9B%AE%E8%A3%9C%E9%8B%85%E5%8F%8D%E8%87%B4%E7%BC%BA%E9%8A%85-32%E6%AD%B2%E5%A5%B3%E7%99%BD%E8%A1%80%E7%90%83%E6%9A%B4%E8%B7%8C%E9%9A%AA%E5%A4%B1%E5%85%8D%E7%96%AB%E5%8A%9B-%E9%8B%85%E9%8A%85%E5%A4%B1%E8%A1%A14%E5%A4%A7%E7%97%87%E7%8B%80",
-    "timestamp": "2026-11-27T05:59:13.815Z",
     "strategy": ".content-card__main"
   }
 ];
