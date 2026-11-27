@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T04:59:17.629Z
+// Last updated: 2026-11-27T05:21:00.212Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳明德邨明道樓中年婦家中暈倒　家人揭發惜為時已晚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220424/594970577882583040354091.jpeg/P1ip_8bKF9NxJylGWxRjDSsyJ2-ssBx7lp_boZaf26E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415583/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%98%8E%E5%BE%B7%E9%82%A8%E6%98%8E%E9%81%93%E6%A8%93%E4%B8%AD%E5%B9%B4%E5%A9%A6%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E6%8F%AD%E7%99%BC%E6%83%9C%E7%82%BA%E6%99%82%E5%B7%B2%E6%99%9A",
+    "timestamp": "2026-11-27T05:21:00.212Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長者買金｜金價穿3500美元！銀行/金行買金抵？供金會？5大伏位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202844288166137856358092.jpeg/bUc07kgbO5H7bAF0z1N0i9xzk0kK5fNFzsdhwc7HYcE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415471/%E5%B1%AF%E9%96%80%E5%B8%9D%E7%81%A3%E5%B1%85%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E8%B3%8A%E4%BA%BA%E6%92%AC%E7%AA%97%E6%8E%A0%E8%B5%B0-74%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
     "timestamp": "2026-11-26T21:45:27.980Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門帝灣居單位遭爆竊　賊人撬窗掠走$74萬財物　包括勞力士名錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202844288166137856358092.jpeg/bUc07kgbO5H7bAF0z1N0i9xzk0kK5fNFzsdhwc7HYcE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415471/%E5%B1%AF%E9%96%80%E5%B8%9D%E7%81%A3%E5%B1%85%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E8%B3%8A%E4%BA%BA%E6%92%AC%E7%AA%97%E6%8E%A0%E8%B5%B0-74%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
-    "timestamp": "2026-11-26T21:19:09.237Z",
     "strategy": ".content-card__main"
   }
 ];
