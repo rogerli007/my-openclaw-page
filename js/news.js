@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T02:37:50.331Z
+// Last updated: 2026-11-27T02:59:04.293Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "護照冷知識｜揭全球僅4色背後密碼！古早護照相片可以是全家福",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202927189004128256352081.jpeg/WSmnZRLO58S6XIww6ySk4hAeGY6H5wLSUKHAYlChwGI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60415337/%E8%AD%B7%E7%85%A7%E5%86%B7%E7%9F%A5%E8%AD%98-%E6%8F%AD%E5%85%A8%E7%90%83%E5%83%854%E8%89%B2%E8%83%8C%E5%BE%8C%E5%AF%86%E7%A2%BC-%E5%8F%A4%E6%97%A9%E8%AD%B7%E7%85%A7%E7%9B%B8%E7%89%87%E5%8F%AF%E4%BB%A5%E6%98%AF%E5%85%A8%E5%AE%B6%E7%A6%8F",
+    "timestamp": "2026-11-27T02:59:04.293Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港管理專業協會周年晚宴圓滿舉行 《香港01》獲邀為特級會員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202810628385804288712650.jpeg/l-R4_hiFxY4i0VUkH9eqZtgAoB1L27E6vwqqFL8KqhQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415462/%E6%AD%90%E5%85%83%E5%8D%80%E6%8E%A8%E9%81%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BE%B7%E7%A7%91%E6%96%AF%E5%87%BA%E4%BB%BB%E6%96%B0%E6%AD%90%E6%B4%B2%E5%A4%AE%E8%A1%8C%E9%95%B7-%E6%98%8E%E5%B9%B42%E6%9C%88%E6%8E%A5%E6%9B%BF%E6%8B%89%E5%8A%A0%E5%BE%B7",
     "timestamp": "2026-11-26T18:59:21.866Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "科威特遭無人機襲擊致2名意大利人喪生　伊朗否認參與其中",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131128791402287104473198.jpeg/7yVq_hMspBXyqwS74ZNcyhGEr9WUDCXM1z3sh9c97Ic?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415459/%E7%A7%91%E5%A8%81%E7%89%B9%E9%81%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A%E8%87%B42%E5%90%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BA%BA%E5%96%AA%E7%94%9F-%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AA%8D%E5%8F%83%E8%88%87%E5%85%B6%E4%B8%AD",
-    "timestamp": "2026-11-26T18:34:54.611Z",
     "strategy": ".content-card__main"
   }
 ];
