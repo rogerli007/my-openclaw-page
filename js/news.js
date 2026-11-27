@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T14:45:49.939Z
+// Last updated: 2026-11-27T14:59:02.152Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃建東瑪姬現身沙田校園講座爆笑「互窒」　自揭童年踩單車黑歷史",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203081898167898112802476.jpeg/-VOj9bQEoBmFvAO0Kvr8zAauO4icqpHjdKAkunSgJLo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415793/%E9%BB%83%E5%BB%BA%E6%9D%B1%E7%91%AA%E5%A7%AC%E7%8F%BE%E8%BA%AB%E6%B2%99%E7%94%B0%E6%A0%A1%E5%9C%92%E8%AC%9B%E5%BA%A7%E7%88%86%E7%AC%91-%E4%BA%92%E7%AA%92-%E8%87%AA%E6%8F%AD%E7%AB%A5%E5%B9%B4%E8%B8%A9%E5%96%AE%E8%BB%8A%E9%BB%91%E6%AD%B7%E5%8F%B2",
+    "timestamp": "2026-11-27T14:59:02.152Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣選舉｜蔣萬安凱道選前之夜湧15萬支持者　沈伯洋轉戰線上直播",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202994174937272320607148.png/Ij9gX3TQwKnDI9oODJl2cGYSv2lPdh2J03sg59N7IOc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415601/%E8%B6%99%E6%98%AD%E5%84%80%E4%B8%8A%E8%B3%B4%E5%86%A0%E9%9C%96%E7%AF%80%E7%9B%AE%E6%8F%AD%E7%89%87%E5%A0%B4%E6%BD%9B%E8%A6%8F%E5%89%87-%E9%80%9A%E5%AE%B5%E6%8B%8D%E6%88%B2%E8%A2%AB%E5%B0%8E%E6%BC%94%E8%A6%81%E6%B1%82-%E9%9C%B2%E5%87%BA%E4%BE%86",
     "timestamp": "2026-11-27T07:30:30.799Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "趙昭儀上賴冠霖節目揭片場潛規則　通宵拍戲被導演要求「露出來」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202994174937272320607148.png/Ij9gX3TQwKnDI9oODJl2cGYSv2lPdh2J03sg59N7IOc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415601/%E8%B6%99%E6%98%AD%E5%84%80%E4%B8%8A%E8%B3%B4%E5%86%A0%E9%9C%96%E7%AF%80%E7%9B%AE%E6%8F%AD%E7%89%87%E5%A0%B4%E6%BD%9B%E8%A6%8F%E5%89%87-%E9%80%9A%E5%AE%B5%E6%8B%8D%E6%88%B2%E8%A2%AB%E5%B0%8E%E6%BC%94%E8%A6%81%E6%B1%82-%E9%9C%B2%E5%87%BA%E4%BE%86",
-    "timestamp": "2026-11-27T07:21:57.089Z",
     "strategy": ".content-card__main"
   }
 ];
