@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T19:45:08.140Z
+// Last updated: 2026-11-27T19:59:03.704Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛蝶灣住宅睡房疑拖板過熱起火　男戶主遭燒傷　男鄰居逃生撞傷手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203179617616138240157806.jpeg/ebhVlhs7HlV5hIds6on-S7V4MibPaOI29Rc3fc8XN30?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415841/%E6%84%9B%E8%9D%B6%E7%81%A3%E4%BD%8F%E5%AE%85%E7%9D%A1%E6%88%BF%E7%96%91%E6%8B%96%E6%9D%BF%E9%81%8E%E7%86%B1%E8%B5%B7%E7%81%AB-%E7%94%B7%E6%88%B6%E4%B8%BB%E9%81%AD%E7%87%92%E5%82%B7-%E7%94%B7%E9%84%B0%E5%B1%85%E9%80%83%E7%94%9F%E6%92%9E%E5%82%B7%E6%89%8B",
+    "timestamp": "2026-11-27T19:59:03.704Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛蝶灣住宅睡房疑拖板過熱起火　男戶主遭燒傷　男鄰居逃生撞傷手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203111174061690880015249.jpeg/TlaN3xdoXtzl9fry3856tdhzrkTOmDpJK5SfNiuUnzY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60415822/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89-%E8%94%A3%E8%90%AC%E5%AE%89%E5%87%B1%E9%81%93%E9%81%B8%E5%89%8D%E4%B9%8B%E5%A4%9C%E6%B9%A715%E8%90%AC%E6%94%AF%E6%8C%81%E8%80%85-%E6%B2%88%E4%BC%AF%E6%B4%8B%E8%BD%89%E6%88%B0%E7%B7%9A%E4%B8%8A%E7%9B%B4%E6%92%AD",
     "timestamp": "2026-11-27T14:45:49.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「Suica企鵝」明年退役　JR東日本證實銅像將拆　同名廣場也改名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203096292754984960492081.jpeg/HinDcC-7I3Jr8VtNR85C1M60laXoPGOoNHiCDzR4gg8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60415802/suica%E4%BC%81%E9%B5%9D-%E6%98%8E%E5%B9%B4%E9%80%80%E5%BD%B9-jr%E6%9D%B1%E6%97%A5%E6%9C%AC%E8%AD%89%E5%AF%A6%E9%8A%85%E5%83%8F%E5%B0%87%E6%8B%86-%E5%90%8C%E5%90%8D%E5%BB%A3%E5%A0%B4%E4%B9%9F%E6%94%B9%E5%90%8D",
-    "timestamp": "2026-11-27T14:20:45.619Z",
     "strategy": ".content-card__main"
   }
 ];
