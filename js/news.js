@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T20:53:46.617Z
+// Last updated: 2026-11-27T21:19:07.962Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈馬斯領導人之子在以軍暗殺行動中倖存　另外四子先前皆遭殺害",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203084812592877568427163.jpeg/pgWizbxvMiVN0bVzXk-ObEptMKIG2pIOm4qwSJuKsEg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415846/%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E5%B0%8E%E4%BA%BA%E4%B9%8B%E5%AD%90%E5%9C%A8%E4%BB%A5%E8%BB%8D%E6%9A%97%E6%AE%BA%E8%A1%8C%E5%8B%95%E4%B8%AD%E5%80%96%E5%AD%98-%E5%8F%A6%E5%A4%96%E5%9B%9B%E5%AD%90%E5%85%88%E5%89%8D%E7%9A%86%E9%81%AD%E6%AE%BA%E5%AE%B3",
+    "timestamp": "2026-11-27T21:19:07.962Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈馬斯領導人之子在以軍暗殺行動中倖存　另外四子先前皆遭殺害",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203063145933836288473590.png/hcOsLXgF9XaUkDmwuupGzyXmhNq2TahQtpamO7aWpjs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415781/%E7%BF%9F%E5%A8%81%E5%BB%89%E9%99%AA%E6%8B%89%E9%A0%AD%E9%A6%AC%E7%8F%BE%E8%BA%AB%E5%AF%8C%E5%A9%86%E8%81%9A%E6%9C%83-%E5%90%8C%E6%A1%86-%E4%B8%AD%E5%B9%B43-%E5%85%A9%E4%BD%8D%E5%8D%83%E8%90%AC%E8%BA%AB%E5%AE%B6%E7%8C%9B%E4%BA%BA",
     "timestamp": "2026-11-27T15:59:16.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "1.02億六合彩周六晚攪珠　一文看清五大最旺號碼及十大幸運投注站",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2404007/org/5e100428025bf6ff8e819f1de4bc24b1.jpg/TwzhfsTpyyx8EMDDSGS_xwcqIP_AhG-1raJECa2iRAk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415824/1-02%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E5%91%A8%E5%85%AD%E6%99%9A%E6%94%AA%E7%8F%A0-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E4%BA%94%E5%A4%A7%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC%E5%8F%8A%E5%8D%81%E5%A4%A7%E5%B9%B8%E9%81%8B%E6%8A%95%E6%B3%A8%E7%AB%99",
-    "timestamp": "2026-11-27T15:45:37.346Z",
     "strategy": ".content-card__main"
   }
 ];
