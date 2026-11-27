@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T15:59:16.104Z
+// Last updated: 2026-11-27T16:21:12.397Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone無廣告YouTube神器｜YouPlay限時免費！支援畫中畫AirPlay",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203017785031004160150268.jpeg/Hwp4EmjVGQW_uu77hFIDQa6Z_d10_FdyKkffkCpH35A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60415638/iphone%E7%84%A1%E5%BB%A3%E5%91%8Ayoutube%E7%A5%9E%E5%99%A8-youplay%E9%99%90%E6%99%82%E5%85%8D%E8%B2%BB-%E6%94%AF%E6%8F%B4%E7%95%AB%E4%B8%AD%E7%95%ABairplay",
+    "timestamp": "2026-11-27T16:21:12.397Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "翟威廉陪拉頭馬現身富婆聚會　同框《中年3》兩位千萬身家猛人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034850177418006528810235.png/0yr47mMdukgnA_EDueZeTePKQ3zebpq6yNKVZcjSlWU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415696/%E7%BE%8E%E5%9C%98q3%E7%B6%93%E8%AA%BF%E6%95%B4%E6%BA%A2%E5%88%A918-5%E5%84%84%E4%BA%BA%E5%B9%A3-%E6%8C%89%E5%B9%B4%E8%BD%89%E7%9B%88-%E7%87%9F%E6%94%B6%E5%A2%9E%E5%85%A9%E6%88%90",
     "timestamp": "2026-11-27T08:59:04.772Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中九龍繞道12.6全線開通　工程零超支、零延誤　施工獲逾百個獎項",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203005177905287168732159.jpeg/6kLOSqhBF0S4ChDcYt02XSusSm332WpuNbdcZRC3XGU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415651/%E4%B8%AD%E4%B9%9D%E9%BE%8D%E7%B9%9E%E9%81%9312-6%E5%85%A8%E7%B7%9A%E9%96%8B%E9%80%9A-%E5%B7%A5%E7%A8%8B%E9%9B%B6%E8%B6%85%E6%94%AF-%E9%9B%B6%E5%BB%B6%E8%AA%A4-%E6%96%BD%E5%B7%A5%E7%8D%B2%E9%80%BE%E7%99%BE%E5%80%8B%E7%8D%8E%E9%A0%85",
-    "timestamp": "2026-11-27T08:47:38.731Z",
     "strategy": ".content-card__main"
   }
 ];
