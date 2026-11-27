@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T01:59:11.450Z
+// Last updated: 2026-11-27T02:24:49.857Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高通脹籠罩美國「黑五」　消費者轉趨精打細算　藉AI比價搶日用品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202927440117108736197246.jpeg/18uiOEjJp9RY__ZyMaqPGtw6_wfkHGAfh7WPpYe1j6U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415494/%E9%AB%98%E9%80%9A%E8%84%B9%E7%B1%A0%E7%BD%A9%E7%BE%8E%E5%9C%8B-%E9%BB%91%E4%BA%94-%E6%B6%88%E8%B2%BB%E8%80%85%E8%BD%89%E8%B6%A8%E7%B2%BE%E6%89%93%E7%B4%B0%E7%AE%97-%E8%97%89ai%E6%AF%94%E5%83%B9%E6%90%B6%E6%97%A5%E7%94%A8%E5%93%81",
+    "timestamp": "2026-11-27T02:24:49.857Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱不確定普京會否出席12月G20會議　惟歡迎對方與會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131128791402287104473198.jpeg/7yVq_hMspBXyqwS74ZNcyhGEr9WUDCXM1z3sh9c97Ic?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415459/%E7%A7%91%E5%A8%81%E7%89%B9%E9%81%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A%E8%87%B42%E5%90%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BA%BA%E5%96%AA%E7%94%9F-%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AA%8D%E5%8F%83%E8%88%87%E5%85%B6%E4%B8%AD",
     "timestamp": "2026-11-26T18:22:14.001Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英格蘭一代翼鋒史達寧毒駕罪成　曾風光無限　離開曼城斷崖式滑落",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202717829258809344460387.jpeg/KkHIfsUK8LJDjKsHkepvHZPGxg3ch-v0CobCwgqGwsI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415426/%E8%8B%B1%E6%A0%BC%E8%98%AD%E4%B8%80%E4%BB%A3%E7%BF%BC%E9%8B%92%E5%8F%B2%E9%81%94%E5%AF%A7%E6%AF%92%E9%A7%95%E7%BD%AA%E6%88%90-%E6%9B%BE%E9%A2%A8%E5%85%89%E7%84%A1%E9%99%90-%E9%9B%A2%E9%96%8B%E6%9B%BC%E5%9F%8E%E6%96%B7%E5%B4%96%E5%BC%8F%E6%BB%91%E8%90%BD",
-    "timestamp": "2026-11-26T17:59:10.423Z",
     "strategy": ".content-card__main"
   }
 ];
