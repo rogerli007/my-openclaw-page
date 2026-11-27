@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T04:21:55.338Z
+// Last updated: 2026-11-27T04:40:10.891Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普承認幕後出手保黃仁勳　稱對方絕非安全威脅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201941794116341760312590.jpeg/PPXPtN-qRK7GGypI1k34uCCm3d942NjX88UYS_PFGEs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415561/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AA%8D%E5%B9%95%E5%BE%8C%E5%87%BA%E6%89%8B%E4%BF%9D%E9%BB%83%E4%BB%81%E5%8B%B3-%E7%A8%B1%E5%B0%8D%E6%96%B9%E7%B5%95%E9%9D%9E%E5%AE%89%E5%85%A8%E5%A8%81%E8%84%85",
+    "timestamp": "2026-11-27T04:40:10.891Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣客船撞船塢｜多名傷者相繼送院　有人臥擔架床分類為危急",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202844288166137856358092.jpeg/bUc07kgbO5H7bAF0z1N0i9xzk0kK5fNFzsdhwc7HYcE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415471/%E5%B1%AF%E9%96%80%E5%B8%9D%E7%81%A3%E5%B1%85%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E8%B3%8A%E4%BA%BA%E6%92%AC%E7%AA%97%E6%8E%A0%E8%B5%B0-74%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
     "timestamp": "2026-11-26T20:59:26.390Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐元區推選西班牙德科斯出任新歐洲央行長　明年2月接替拉加德",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202810628385804288712650.jpeg/l-R4_hiFxY4i0VUkH9eqZtgAoB1L27E6vwqqFL8KqhQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415462/%E6%AD%90%E5%85%83%E5%8D%80%E6%8E%A8%E9%81%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BE%B7%E7%A7%91%E6%96%AF%E5%87%BA%E4%BB%BB%E6%96%B0%E6%AD%90%E6%B4%B2%E5%A4%AE%E8%A1%8C%E9%95%B7-%E6%98%8E%E5%B9%B42%E6%9C%88%E6%8E%A5%E6%9B%BF%E6%8B%89%E5%8A%A0%E5%BE%B7",
-    "timestamp": "2026-11-26T20:19:58.379Z",
     "strategy": ".content-card__main"
   }
 ];
