@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T23:19:02.174Z
+// Last updated: 2026-11-27T23:45:22.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "飯後有便意非腸胃差？醫拆解「胃結腸反射」機制　附4大腸道警號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201925384925351936923058.jpeg/gSFlz5M8Fff3vG9OE4XC6rWxMKwHo9IvGYhGHhmIRh4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60413451/%E9%A3%AF%E5%BE%8C%E6%9C%89%E4%BE%BF%E6%84%8F%E9%9D%9E%E8%85%B8%E8%83%83%E5%B7%AE-%E9%86%AB%E6%8B%86%E8%A7%A3-%E8%83%83%E7%B5%90%E8%85%B8%E5%8F%8D%E5%B0%84-%E6%A9%9F%E5%88%B6-%E9%99%844%E5%A4%A7%E8%85%B8%E9%81%93%E8%AD%A6%E8%99%9F",
+    "timestamp": "2026-11-27T23:45:22.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "神秘「視覺錯覺圖」瘋傳　你看到什麼數字？　見到這組數字要求醫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070831282763599872120394.jpeg/Gxe1_JkmgdH1A0-m4dhZ6GnPBWQj7BSJ3p8lEt6fJRI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415836/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E6%8E%A7%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E9%98%BB%E7%A4%99%E7%B3%A7%E9%A3%9F%E9%81%8E%E5%A2%83-%E6%99%AE%E4%BA%AC%E7%A8%B1%E5%B0%87%E6%8C%81%E7%BA%8C%E6%8E%A8%E5%8B%95%E6%B5%B7%E8%BB%8D%E7%8F%BE%E4%BB%A3%E5%8C%96",
     "timestamp": "2026-11-27T17:45:24.820Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯指控拉脫維亞阻礙糧食過境　普京稱將持續推動海軍現代化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070831282763599872120394.jpeg/Gxe1_JkmgdH1A0-m4dhZ6GnPBWQj7BSJ3p8lEt6fJRI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415836/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E6%8E%A7%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E9%98%BB%E7%A4%99%E7%B3%A7%E9%A3%9F%E9%81%8E%E5%A2%83-%E6%99%AE%E4%BA%AC%E7%A8%B1%E5%B0%87%E6%8C%81%E7%BA%8C%E6%8E%A8%E5%8B%95%E6%B5%B7%E8%BB%8D%E7%8F%BE%E4%BB%A3%E5%8C%96",
-    "timestamp": "2026-11-27T17:19:08.651Z",
     "strategy": ".content-card__main"
   }
 ];
