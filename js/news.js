@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T08:47:38.731Z
+// Last updated: 2026-11-27T08:59:04.772Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美團Q3經調整溢利18.5億人幣　按年轉盈　營收增兩成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034850177418006528810235.png/0yr47mMdukgnA_EDueZeTePKQ3zebpq6yNKVZcjSlWU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415696/%E7%BE%8E%E5%9C%98q3%E7%B6%93%E8%AA%BF%E6%95%B4%E6%BA%A2%E5%88%A918-5%E5%84%84%E4%BA%BA%E5%B9%A3-%E6%8C%89%E5%B9%B4%E8%BD%89%E7%9B%88-%E7%87%9F%E6%94%B6%E5%A2%9E%E5%85%A9%E6%88%90",
+    "timestamp": "2026-11-27T08:59:04.772Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中九龍繞道12.6全線開通　工程零超支、零延誤　施工獲逾百個獎項",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202337931847536640605149.jpeg/Rhhp_NWPSzGMfQpD1WLAEQ9fs5v67Q26TDk4ckw5OHI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60415000/%E9%A6%99%E6%B8%AF%E7%AE%A1%E7%90%86%E5%B0%88%E6%A5%AD%E5%8D%94%E6%9C%83%E5%91%A8%E5%B9%B4%E6%99%9A%E5%AE%B4%E5%9C%93%E6%BB%BF%E8%88%89%E8%A1%8C-%E9%A6%99%E6%B8%AF01-%E7%8D%B2%E9%82%80%E7%82%BA%E7%89%B9%E7%B4%9A%E6%9C%83%E5%93%A1",
     "timestamp": "2026-11-27T02:37:50.331Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高通脹籠罩美國「黑五」　消費者轉趨精打細算　藉AI比價搶日用品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202927440117108736197246.jpeg/18uiOEjJp9RY__ZyMaqPGtw6_wfkHGAfh7WPpYe1j6U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415494/%E9%AB%98%E9%80%9A%E8%84%B9%E7%B1%A0%E7%BD%A9%E7%BE%8E%E5%9C%8B-%E9%BB%91%E4%BA%94-%E6%B6%88%E8%B2%BB%E8%80%85%E8%BD%89%E8%B6%A8%E7%B2%BE%E6%89%93%E7%B4%B0%E7%AE%97-%E8%97%89ai%E6%AF%94%E5%83%B9%E6%90%B6%E6%97%A5%E7%94%A8%E5%93%81",
-    "timestamp": "2026-11-27T02:24:49.857Z",
     "strategy": ".content-card__main"
   }
 ];
