@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T11:19:38.401Z
+// Last updated: 2026-11-27T11:46:01.855Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅天宇爆陪未來外夫外母打Golf　唔使讓賽：佢哋好勁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203001992260096000864093.jpeg/qaVH3vIVCarKfwXWPUuyTn0mPOlNmDpAwf7LIsH-yyI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415642/%E7%BE%85%E5%A4%A9%E5%AE%87%E7%88%86%E9%99%AA%E6%9C%AA%E4%BE%86%E5%A4%96%E5%A4%AB%E5%A4%96%E6%AF%8D%E6%89%93golf-%E5%94%94%E4%BD%BF%E8%AE%93%E8%B3%BD-%E4%BD%A2%E5%93%8B%E5%A5%BD%E5%8B%81",
+    "timestamp": "2026-11-27T11:46:01.855Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "63歲苑瓊丹大變樣被誤認為「麥玲玲」　苑仔親解原因：有大師指點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202966922350563328804963.png/xiUY-kQ36N2kXTJwWdX1JVm5P5pUX0GRDud8ww7nfMM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%80%80%E4%BC%91%E7%90%86%E8%B2%A1/60415353/%E9%95%B7%E8%80%85%E8%B2%B7%E9%87%91-%E9%87%91%E5%83%B9%E7%A9%BF3500%E7%BE%8E%E5%85%83-%E9%8A%80%E8%A1%8C-%E9%87%91%E8%A1%8C%E8%B2%B7%E9%87%91%E6%8A%B5-%E4%BE%9B%E9%87%91%E6%9C%83-5%E5%A4%A7%E4%BC%8F%E4%BD%8D",
     "timestamp": "2026-11-27T04:59:17.629Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普承認幕後出手保黃仁勳　稱對方絕非安全威脅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201941794116341760312590.jpeg/PPXPtN-qRK7GGypI1k34uCCm3d942NjX88UYS_PFGEs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415561/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AA%8D%E5%B9%95%E5%BE%8C%E5%87%BA%E6%89%8B%E4%BF%9D%E9%BB%83%E4%BB%81%E5%8B%B3-%E7%A8%B1%E5%B0%8D%E6%96%B9%E7%B5%95%E9%9D%9E%E5%AE%89%E5%85%A8%E5%A8%81%E8%84%85",
-    "timestamp": "2026-11-27T04:40:10.891Z",
     "strategy": ".content-card__main"
   }
 ];
