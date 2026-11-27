@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T00:58:47.468Z
+// Last updated: 2026-11-27T01:31:04.449Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉嶺萃雲路挖泥機凌晨起火　現場檢天拿水　列縱火案追查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230309/710546788108472320582136.jpeg/sUmjW2tj7CnGBxEDl3TvP8RXUdJO0KUWBlLgHgZS4B4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415480/%E7%B2%89%E5%B6%BA%E8%90%83%E9%9B%B2%E8%B7%AF%E6%8C%96%E6%B3%A5%E6%A9%9F%E5%87%8C%E6%99%A8%E8%B5%B7%E7%81%AB-%E7%8F%BE%E5%A0%B4%E6%AA%A2%E5%A4%A9%E6%8B%BF%E6%B0%B4-%E5%88%97%E7%B8%B1%E7%81%AB%E6%A1%88%E8%BF%BD%E6%9F%A5",
+    "timestamp": "2026-11-27T01:31:04.449Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "太古Harvey Nichols、旺角Beauty Avenue明年結業　廸生連關3名店",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202717829258809344460387.jpeg/KkHIfsUK8LJDjKsHkepvHZPGxg3ch-v0CobCwgqGwsI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415426/%E8%8B%B1%E6%A0%BC%E8%98%AD%E4%B8%80%E4%BB%A3%E7%BF%BC%E9%8B%92%E5%8F%B2%E9%81%94%E5%AF%A7%E6%AF%92%E9%A7%95%E7%BD%AA%E6%88%90-%E6%9B%BE%E9%A2%A8%E5%85%89%E7%84%A1%E9%99%90-%E9%9B%A2%E9%96%8B%E6%9B%BC%E5%9F%8E%E6%96%B7%E5%B4%96%E5%BC%8F%E6%BB%91%E8%90%BD",
     "timestamp": "2026-11-26T17:29:47.334Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英格蘭一代翼鋒史達寧毒駕罪成　曾風光無限　離開曼城斷崖式滑落",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202717829258809344460387.jpeg/KkHIfsUK8LJDjKsHkepvHZPGxg3ch-v0CobCwgqGwsI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415426/%E8%8B%B1%E6%A0%BC%E8%98%AD%E4%B8%80%E4%BB%A3%E7%BF%BC%E9%8B%92%E5%8F%B2%E9%81%94%E5%AF%A7%E6%AF%92%E9%A7%95%E7%BD%AA%E6%88%90-%E6%9B%BE%E9%A2%A8%E5%85%89%E7%84%A1%E9%99%90-%E9%9B%A2%E9%96%8B%E6%9B%BC%E5%9F%8E%E6%96%B7%E5%B4%96%E5%BC%8F%E6%BB%91%E8%90%BD",
-    "timestamp": "2026-11-26T17:19:05.804Z",
     "strategy": ".content-card__main"
   }
 ];
