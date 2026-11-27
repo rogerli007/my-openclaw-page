@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T10:53:25.475Z
+// Last updated: 2026-11-27T11:19:38.401Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "63歲苑瓊丹大變樣被誤認為「麥玲玲」　苑仔親解原因：有大師指點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203055212357488640875102.jpeg/1sopA3U7Eh-EEeU3xKTsLEZkUg_jRqTfImrhZiJq4WY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415751/63%E6%AD%B2%E8%8B%91%E7%93%8A%E4%B8%B9%E5%A4%A7%E8%AE%8A%E6%A8%A3%E8%A2%AB%E8%AA%A4%E8%AA%8D%E7%82%BA-%E9%BA%A5%E7%8E%B2%E7%8E%B2-%E8%8B%91%E4%BB%94%E8%A6%AA%E8%A7%A3%E5%8E%9F%E5%9B%A0-%E6%9C%89%E5%A4%A7%E5%B8%AB%E6%8C%87%E9%BB%9E",
+    "timestamp": "2026-11-27T11:19:38.401Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳吉寧被查：過度考驗官員人性難持久　中國反腐不可錯失時間窗口",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201941794116341760312590.jpeg/PPXPtN-qRK7GGypI1k34uCCm3d942NjX88UYS_PFGEs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415561/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AA%8D%E5%B9%95%E5%BE%8C%E5%87%BA%E6%89%8B%E4%BF%9D%E9%BB%83%E4%BB%81%E5%8B%B3-%E7%A8%B1%E5%B0%8D%E6%96%B9%E7%B5%95%E9%9D%9E%E5%AE%89%E5%85%A8%E5%A8%81%E8%84%85",
     "timestamp": "2026-11-27T04:40:10.891Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣客船撞船塢｜多名傷者相繼送院　有人臥擔架床分類為危急",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202945128189136896208476.jpeg/YImdR9I_eiLZU6x2SJMDU2m0krpCkHf4eVw5lnlcOZY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415532/%E9%9D%92%E8%A1%A3%E5%AE%A2%E8%88%B9%E6%92%9E%E8%88%B9%E5%A1%A2-%E5%A4%9A%E5%90%8D%E5%82%B7%E8%80%85%E7%9B%B8%E7%B9%BC%E9%80%81%E9%99%A2-%E6%9C%89%E4%BA%BA%E8%87%A5%E6%93%94%E6%9E%B6%E5%BA%8A%E5%88%86%E9%A1%9E%E7%82%BA%E5%8D%B1%E6%80%A5",
-    "timestamp": "2026-11-27T04:21:55.338Z",
     "strategy": ".content-card__main"
   }
 ];
