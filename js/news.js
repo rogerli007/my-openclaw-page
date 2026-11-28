@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T07:59:04.700Z
+// Last updated: 2026-11-28T08:32:56.498Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓音樂劇教父南京柱涉性侵女學生　認試圖性交否認施壓　30日宣判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203373822779068416710825.png/Sf-anQdPmowpBwGwFDTJL01wMkSwsMDloDOM16AzjNc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415928/%E9%9F%93%E9%9F%B3%E6%A8%82%E5%8A%87%E6%95%99%E7%88%B6%E5%8D%97%E4%BA%AC%E6%9F%B1%E6%B6%89%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%B8%E7%94%9F-%E8%AA%8D%E8%A9%A6%E5%9C%96%E6%80%A7%E4%BA%A4%E5%90%A6%E8%AA%8D%E6%96%BD%E5%A3%93-30%E6%97%A5%E5%AE%A3%E5%88%A4",
+    "timestamp": "2026-11-28T08:32:56.498Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秘魯機場截677活體動物　兩名中國青年涉走私多種野生動物被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201951101541158912827439.png/25ceBVIBSVSX07Epw-Cro9mBiGKUUb4s9kZfgPZGX4A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414315/12%E6%98%9F%E5%BA%A7%E8%AA%B0%E6%9C%80%E9%9B%A3%E8%BF%BD-%E5%85%AC%E8%AA%8D%E6%9C%80%E9%9B%A3%E6%94%BB%E7%95%A5%E6%98%9F%E5%BA%A7top4-%E7%AC%AC1%E5%90%8D%E5%BF%BD%E5%86%B7%E5%BF%BD%E7%86%B1%E6%9C%80%E9%9B%A3%E6%8D%89%E6%91%B8",
     "timestamp": "2026-11-28T01:21:08.660Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "科技巨頭撕破臉！OpenAI反訴蘋果竊商業機密　設局陷害離職員工",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152561463529836544862579.jpeg/r2GictBz3a_tw41arAAadMyu0irNk6aTSUjvn0lI758?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415852/%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD%E6%92%95%E7%A0%B4%E8%87%89-openai%E5%8F%8D%E8%A8%B4%E8%98%8B%E6%9E%9C%E7%AB%8A%E5%95%86%E6%A5%AD%E6%A9%9F%E5%AF%86-%E8%A8%AD%E5%B1%80%E9%99%B7%E5%AE%B3%E9%9B%A2%E8%81%B7%E5%93%A1%E5%B7%A5",
-    "timestamp": "2026-11-28T00:57:38.218Z",
     "strategy": ".content-card__main"
   }
 ];
