@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T08:59:13.969Z
+// Last updated: 2026-11-28T09:20:53.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美人魚陳惠珠病逝享壽92歲！昔當紅女星為夫息影　未能返台成遺憾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203393525589217280283905.png/tcZbVetHILb05y-VVwTm6zrEOnMrFi46PSsrST0rK0k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415924/%E7%BE%8E%E4%BA%BA%E9%AD%9A%E9%99%B3%E6%83%A0%E7%8F%A0%E7%97%85%E9%80%9D%E4%BA%AB%E5%A3%BD92%E6%AD%B2-%E6%98%94%E7%95%B6%E7%B4%85%E5%A5%B3%E6%98%9F%E7%82%BA%E5%A4%AB%E6%81%AF%E5%BD%B1-%E6%9C%AA%E8%83%BD%E8%BF%94%E5%8F%B0%E6%88%90%E9%81%BA%E6%86%BE",
+    "timestamp": "2026-11-28T09:20:53.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "資料外泄｜建造業議會APP遭未經授權存取　涉50萬工人姓名等資料",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203236000306827264971483.png/-TiPCXcuE6AYLUeRDzMyEdwT39eudbz-ki5Z7pIuWe4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60415849/%E9%9B%A8%E5%83%91%E8%AB%87%E5%85%A9%E5%AD%A9%E5%AA%BD%E5%AA%BD%E9%9B%A3%E8%99%95%E5%9D%A6%E8%A8%80%E6%9C%80%E9%9B%A3%E5%B9%B3%E8%A1%A1%E5%B0%8D%E5%AD%90%E5%A5%B3%E7%9A%84%E6%84%9B-%E7%8F%8D%E6%83%9C%E8%A6%AA%E8%87%AA%E6%8E%A5%E6%94%BE%E5%AD%B8%E6%99%82%E5%85%89",
     "timestamp": "2026-11-28T02:23:37.764Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "$1.02億六合彩全餐奇招│$220買齊49個號碼！過來人實測：較容易中",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194820513118031872862149.jpeg/0-3VuYU06aEWGRiOKEtwzCLNAAusPvtEtfX4rbX1-K0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414265/1-02%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E5%85%A8%E9%A4%90%E5%A5%87%E6%8B%9B-220%E8%B2%B7%E9%BD%8A49%E5%80%8B%E8%99%9F%E7%A2%BC-%E9%81%8E%E4%BE%86%E4%BA%BA%E5%AF%A6%E6%B8%AC-%E8%BC%83%E5%AE%B9%E6%98%93%E4%B8%AD",
-    "timestamp": "2026-11-28T01:48:45.434Z",
     "strategy": ".content-card__main"
   }
 ];
