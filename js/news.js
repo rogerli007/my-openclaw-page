@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T03:59:12.369Z
+// Last updated: 2026-11-28T04:32:31.720Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "居港8年被同化？港漂男稱已習慣港人4大文化：生活久了回不去內地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202986605434900480869713.jpeg/S6VjTdQavpdUCVzAcFymosqDX_vPegsgp2tN0KdrTdA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60415406/%E5%B1%85%E6%B8%AF8%E5%B9%B4%E8%A2%AB%E5%90%8C%E5%8C%96-%E6%B8%AF%E6%BC%82%E7%94%B7%E7%A8%B1%E5%B7%B2%E7%BF%92%E6%85%A3%E6%B8%AF%E4%BA%BA4%E5%A4%A7%E6%96%87%E5%8C%96-%E7%94%9F%E6%B4%BB%E4%B9%85%E4%BA%86%E5%9B%9E%E4%B8%8D%E5%8E%BB%E5%85%A7%E5%9C%B0",
+    "timestamp": "2026-11-28T04:32:31.720Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英偉達禁售晶片驚現上海數據中心　涉黃仁勳緋聞對象黃樂關聯項目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203084812592877568427163.jpeg/pgWizbxvMiVN0bVzXk-ObEptMKIG2pIOm4qwSJuKsEg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415846/%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E5%B0%8E%E4%BA%BA%E4%B9%8B%E5%AD%90%E5%9C%A8%E4%BB%A5%E8%BB%8D%E6%9A%97%E6%AE%BA%E8%A1%8C%E5%8B%95%E4%B8%AD%E5%80%96%E5%AD%98-%E5%8F%A6%E5%A4%96%E5%9B%9B%E5%AD%90%E5%85%88%E5%89%8D%E7%9A%86%E9%81%AD%E6%AE%BA%E5%AE%B3",
     "timestamp": "2026-11-27T21:19:07.962Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈馬斯領導人之子在以軍暗殺行動中倖存　另外四子先前皆遭殺害",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203084812592877568427163.jpeg/pgWizbxvMiVN0bVzXk-ObEptMKIG2pIOm4qwSJuKsEg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415846/%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E5%B0%8E%E4%BA%BA%E4%B9%8B%E5%AD%90%E5%9C%A8%E4%BB%A5%E8%BB%8D%E6%9A%97%E6%AE%BA%E8%A1%8C%E5%8B%95%E4%B8%AD%E5%80%96%E5%AD%98-%E5%8F%A6%E5%A4%96%E5%9B%9B%E5%AD%90%E5%85%88%E5%89%8D%E7%9A%86%E9%81%AD%E6%AE%BA%E5%AE%B3",
-    "timestamp": "2026-11-27T20:53:46.617Z",
     "strategy": ".content-card__main"
   }
 ];
