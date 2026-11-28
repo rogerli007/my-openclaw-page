@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T10:19:22.147Z
+// Last updated: 2026-11-28T10:45:16.652Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜董明珠直播爆粗鬧員工　不滿咖啡提前備好、助理取手袋慢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203399175580946432895316.jpeg/31swQDmIVD01DUdK3EGGuJiFJqu8fQj5Otsv8DrbL_A?v=w1920",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60415978/%E6%9C%89%E7%89%87-%E8%91%A3%E6%98%8E%E7%8F%A0%E7%9B%B4%E6%92%AD%E7%88%86%E7%B2%97%E9%AC%A7%E5%93%A1%E5%B7%A5-%E4%B8%8D%E6%BB%BF%E5%92%96%E5%95%A1%E6%8F%90%E5%89%8D%E5%82%99%E5%A5%BD-%E5%8A%A9%E7%90%86%E5%8F%96%E6%89%8B%E8%A2%8B%E6%85%A2",
+    "timestamp": "2026-11-28T10:45:16.652Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長崎原爆資料館把南京大屠殺表述改稱「事件」　新華社：多方反對",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203306617823563776294183.png/JIZXneHsSejg3r3do6-wFp2EXSXuFr91rIaZiqyGmYo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415874/%E6%9D%B1%E4%BA%AC%E6%96%B0%E5%AE%BF%E9%A9%9A%E8%A6%8B%E6%89%8B%E6%A9%9F%E7%A2%B0%E7%93%B7%E9%BB%A8-%E4%B8%B8%E4%BA%95%E5%95%86%E5%A0%B4%E8%88%87%E8%AD%A6%E7%BD%B2%E7%99%BC%E8%AD%A6%E7%A4%BA%E9%81%8A%E6%97%A5%E6%B8%AF%E4%BA%BA%E8%87%AA%E4%BF%9D3%E6%8B%9B",
     "timestamp": "2026-11-28T03:32:59.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油塘擎海II今首輪賣128伙　入場費395萬　大手客擬逾2000萬買4伙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202663810087784448821653.jpeg/SXN89cwoWncbnmNafjfsYznT8wT-mnKalq3cuJat3Lg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60415881/%E6%B2%B9%E5%A1%98%E6%93%8E%E6%B5%B7ii%E4%BB%8A%E9%A6%96%E8%BC%AA%E8%B3%A3128%E4%BC%99-%E5%85%A5%E5%A0%B4%E8%B2%BB395%E8%90%AC-%E5%A4%A7%E6%89%8B%E5%AE%A2%E6%93%AC%E9%80%BE2000%E8%90%AC%E8%B2%B74%E4%BC%99",
-    "timestamp": "2026-11-28T03:21:39.359Z",
     "strategy": ".content-card__main"
   }
 ];
