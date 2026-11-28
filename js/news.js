@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T09:45:31.443Z
+// Last updated: 2026-11-28T09:59:04.982Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門棚架火︱工人親述逃生經過：未聞警鐘響　廠長察起火帶隊疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203396415737303040705694.jpeg/dph37Ng1SUmdSH6nziEVn6FrEQCD4WWzk5q_Q5Oav0M?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415963/%E5%B1%AF%E9%96%80%E6%A3%9A%E6%9E%B6%E7%81%AB-%E5%B7%A5%E4%BA%BA%E8%A6%AA%E8%BF%B0%E9%80%83%E7%94%9F%E7%B6%93%E9%81%8E-%E6%9C%AA%E8%81%9E%E8%AD%A6%E9%90%98%E9%9F%BF-%E5%BB%A0%E9%95%B7%E5%AF%9F%E8%B5%B7%E7%81%AB%E5%B8%B6%E9%9A%8A%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-11-28T09:59:04.982Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西沙GO PARK明年1月首辦公益金慈善馬拉松　採全新半馬10公里賽道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148707135262035968740983.jpeg/5sVQDJDwvc0NlQndUTmQPUfgBIlB_PLUbOXc7Gzl3Ow?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60415856/%E6%8E%88%E5%8B%B3%E5%84%80%E5%BC%8F-%E6%A5%8A%E5%BE%B7%E5%BC%B7%E7%AD%8940%E4%BA%BA%E7%8D%B2%E9%8A%85%E7%B4%AB%E8%8D%8A%E6%98%9F%E7%AB%A0-now%E6%96%B0%E8%81%9E%E4%B8%BB%E7%AE%A1%E9%99%B3%E9%90%B5%E5%BD%AA%E6%9C%AA%E7%8F%BE%E8%BA%AB",
     "timestamp": "2026-11-28T02:59:00.343Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣選舉觀察｜被「取捨」的鄭麗文   一場沒有國民黨主席的選戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203077144008331264347658.jpeg/mD5K5cXEVWJ6bk9yup8JNhDN7NeAKrJwDuFZpA7hWaQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60415784/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89%E8%A7%80%E5%AF%9F-%E8%A2%AB-%E5%8F%96%E6%8D%A8-%E7%9A%84%E9%84%AD%E9%BA%97%E6%96%87-%E4%B8%80%E5%A0%B4%E6%B2%92%E6%9C%89%E5%9C%8B%E6%B0%91%E9%BB%A8%E4%B8%BB%E5%B8%AD%E7%9A%84%E9%81%B8%E6%88%B0",
-    "timestamp": "2026-11-28T02:36:40.047Z",
     "strategy": ".content-card__main"
   }
 ];
