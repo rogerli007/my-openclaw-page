@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T06:25:59.636Z
+// Last updated: 2026-11-28T06:50:30.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片︱屯門建發里工廈外牆棚架陷火海　濃煙席捲半空　消防灌救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203356983806136320824930.jpeg/zqSAoub2ojlPoeZtaabjewoRxwII7UDzNke-tTZHvrU",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415918/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E5%BB%BA%E7%99%BC%E9%87%8C%E5%B7%A5%E5%BB%88%E5%A4%96%E7%89%86%E6%A3%9A%E6%9E%B6%E9%99%B7%E7%81%AB%E6%B5%B7-%E6%BF%83%E7%85%99%E5%B8%AD%E6%8D%B2%E5%8D%8A%E7%A9%BA-%E6%B6%88%E9%98%B2%E7%81%8C%E6%95%91",
+    "timestamp": "2026-11-28T06:50:30.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "資料外泄｜數字辦：促各部門檢查敏感資料系統　強化事故通報機制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201925384925351936923058.jpeg/gSFlz5M8Fff3vG9OE4XC6rWxMKwHo9IvGYhGHhmIRh4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60413451/%E9%A3%AF%E5%BE%8C%E6%9C%89%E4%BE%BF%E6%84%8F%E9%9D%9E%E8%85%B8%E8%83%83%E5%B7%AE-%E9%86%AB%E6%8B%86%E8%A7%A3-%E8%83%83%E7%B5%90%E8%85%B8%E5%8F%8D%E5%B0%84-%E6%A9%9F%E5%88%B6-%E9%99%844%E5%A4%A7%E8%85%B8%E9%81%93%E8%AD%A6%E8%99%9F",
     "timestamp": "2026-11-27T23:45:22.926Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "神秘「視覺錯覺圖」瘋傳　你看到什麼數字？　見到這組數字要求醫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202330758195187712542086.jpeg/BONwkLKLWnkOh_5-2JVBQWZOZ1sqCXQ2tueN0LbnjdA",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414980/%E7%A5%9E%E7%A7%98-%E8%A6%96%E8%A6%BA%E9%8C%AF%E8%A6%BA%E5%9C%96-%E7%98%8B%E5%82%B3-%E4%BD%A0%E7%9C%8B%E5%88%B0%E4%BB%80%E9%BA%BC%E6%95%B8%E5%AD%97-%E8%A6%8B%E5%88%B0%E9%80%99%E7%B5%84%E6%95%B8%E5%AD%97%E8%A6%81%E6%B1%82%E9%86%AB",
-    "timestamp": "2026-11-27T23:19:02.174Z",
     "strategy": ".content-card__main"
   }
 ];
