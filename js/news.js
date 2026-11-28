@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T23:59:10.029Z
+// Last updated: 2026-11-28T00:36:19.413Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張新悅四女均讀貴族國際學校　大談育兒心得全年學費高達21.8萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203107546483658752456327.jpeg/UP2ijR3sYG5-spYo_4mqAQfCImt374S7C_bgNAv24DQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415013/%E5%BC%B5%E6%96%B0%E6%82%85%E5%9B%9B%E5%A5%B3%E5%9D%87%E8%AE%80%E8%B2%B4%E6%97%8F%E5%9C%8B%E9%9A%9B%E5%AD%B8%E6%A0%A1-%E5%A4%A7%E8%AB%87%E8%82%B2%E5%85%92%E5%BF%83%E5%BE%97%E5%85%A8%E5%B9%B4%E5%AD%B8%E8%B2%BB%E9%AB%98%E9%81%9421-8%E8%90%AC",
+    "timestamp": "2026-11-28T00:36:19.413Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "落馬洲坑頭村六旬翁涉攜仿製槍械被捕　警檢兩假槍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070831282763599872120394.jpeg/Gxe1_JkmgdH1A0-m4dhZ6GnPBWQj7BSJ3p8lEt6fJRI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415836/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E6%8E%A7%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E9%98%BB%E7%A4%99%E7%B3%A7%E9%A3%9F%E9%81%8E%E5%A2%83-%E6%99%AE%E4%BA%AC%E7%A8%B1%E5%B0%87%E6%8C%81%E7%BA%8C%E6%8E%A8%E5%8B%95%E6%B5%B7%E8%BB%8D%E7%8F%BE%E4%BB%A3%E5%8C%96",
     "timestamp": "2026-11-27T18:21:59.617Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯指控拉脫維亞阻礙糧食過境　普京稱將持續推動海軍現代化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070831282763599872120394.jpeg/Gxe1_JkmgdH1A0-m4dhZ6GnPBWQj7BSJ3p8lEt6fJRI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415836/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E6%8E%A7%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E9%98%BB%E7%A4%99%E7%B3%A7%E9%A3%9F%E9%81%8E%E5%A2%83-%E6%99%AE%E4%BA%AC%E7%A8%B1%E5%B0%87%E6%8C%81%E7%BA%8C%E6%8E%A8%E5%8B%95%E6%B5%B7%E8%BB%8D%E7%8F%BE%E4%BB%A3%E5%8C%96",
-    "timestamp": "2026-11-27T17:59:04.210Z",
     "strategy": ".content-card__main"
   }
 ];
