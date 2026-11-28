@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T07:20:12.801Z
+// Last updated: 2026-11-28T07:45:24.793Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秘魯機場截677活體動物　兩名中國青年涉走私多種野生動物被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203371246075514880807354.jpeg/04I3X1Q1vVnBeb1bYI-hP-n7NmRvoWN_Ke9gdSnvYHU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415934/%E7%A7%98%E9%AD%AF%E6%A9%9F%E5%A0%B4%E6%88%AA677%E6%B4%BB%E9%AB%94%E5%8B%95%E7%89%A9-%E5%85%A9%E5%90%8D%E4%B8%AD%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%B6%89%E8%B5%B0%E7%A7%81%E5%A4%9A%E7%A8%AE%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-28T07:45:24.793Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金正恩或訪華　 韓國情報當局緊盯中朝互動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203107546483658752456327.jpeg/UP2ijR3sYG5-spYo_4mqAQfCImt374S7C_bgNAv24DQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415013/%E5%BC%B5%E6%96%B0%E6%82%85%E5%9B%9B%E5%A5%B3%E5%9D%87%E8%AE%80%E8%B2%B4%E6%97%8F%E5%9C%8B%E9%9A%9B%E5%AD%B8%E6%A0%A1-%E5%A4%A7%E8%AB%87%E8%82%B2%E5%85%92%E5%BF%83%E5%BE%97%E5%85%A8%E5%B9%B4%E5%AD%B8%E8%B2%BB%E9%AB%98%E9%81%9421-8%E8%90%AC",
     "timestamp": "2026-11-28T00:36:19.413Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "落馬洲坑頭村六旬翁涉攜仿製槍械被捕　警檢兩假槍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203247899912179712024963.jpeg/wFDRMXJBtNGLUxObnHjWoNI7HgMN4c6Qxj2F5MY9heQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415851/%E8%90%BD%E9%A6%AC%E6%B4%B2%E5%9D%91%E9%A0%AD%E6%9D%91%E5%85%AD%E6%97%AC%E7%BF%81%E6%B6%89%E6%94%9C%E4%BB%BF%E8%A3%BD%E6%A7%8D%E6%A2%B0%E8%A2%AB%E6%8D%95-%E8%AD%A6%E6%AA%A2%E5%85%A9%E5%81%87%E6%A7%8D",
-    "timestamp": "2026-11-27T23:59:10.029Z",
     "strategy": ".content-card__main"
   }
 ];
