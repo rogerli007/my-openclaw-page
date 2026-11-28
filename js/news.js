@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T03:21:39.359Z
+// Last updated: 2026-11-28T03:32:59.519Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東京新宿驚見手機碰瓷黨　丸井商場與警署發警示遊日港人自保3招",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203306617823563776294183.png/JIZXneHsSejg3r3do6-wFp2EXSXuFr91rIaZiqyGmYo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415874/%E6%9D%B1%E4%BA%AC%E6%96%B0%E5%AE%BF%E9%A9%9A%E8%A6%8B%E6%89%8B%E6%A9%9F%E7%A2%B0%E7%93%B7%E9%BB%A8-%E4%B8%B8%E4%BA%95%E5%95%86%E5%A0%B4%E8%88%87%E8%AD%A6%E7%BD%B2%E7%99%BC%E8%AD%A6%E7%A4%BA%E9%81%8A%E6%97%A5%E6%B8%AF%E4%BA%BA%E8%87%AA%E4%BF%9D3%E6%8B%9B",
+    "timestamp": "2026-11-28T03:32:59.519Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油塘擎海II今首輪賣128伙　入場費395萬　大手客擬逾2000萬買4伙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203179617616138240157806.jpeg/ebhVlhs7HlV5hIds6on-S7V4MibPaOI29Rc3fc8XN30?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415841/%E6%84%9B%E8%9D%B6%E7%81%A3%E4%BD%8F%E5%AE%85%E7%9D%A1%E6%88%BF%E7%96%91%E6%8B%96%E6%9D%BF%E9%81%8E%E7%86%B1%E8%B5%B7%E7%81%AB-%E7%94%B7%E6%88%B6%E4%B8%BB%E9%81%AD%E7%87%92%E5%82%B7-%E7%94%B7%E9%84%B0%E5%B1%85%E9%80%83%E7%94%9F%E6%92%9E%E5%82%B7%E6%89%8B",
     "timestamp": "2026-11-27T20:20:04.846Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛蝶灣住宅睡房疑拖板過熱起火　男戶主遭燒傷　男鄰居逃生撞傷手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203179617616138240157806.jpeg/ebhVlhs7HlV5hIds6on-S7V4MibPaOI29Rc3fc8XN30?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415841/%E6%84%9B%E8%9D%B6%E7%81%A3%E4%BD%8F%E5%AE%85%E7%9D%A1%E6%88%BF%E7%96%91%E6%8B%96%E6%9D%BF%E9%81%8E%E7%86%B1%E8%B5%B7%E7%81%AB-%E7%94%B7%E6%88%B6%E4%B8%BB%E9%81%AD%E7%87%92%E5%82%B7-%E7%94%B7%E9%84%B0%E5%B1%85%E9%80%83%E7%94%9F%E6%92%9E%E5%82%B7%E6%89%8B",
-    "timestamp": "2026-11-27T19:59:03.704Z",
     "strategy": ".content-card__main"
   }
 ];
