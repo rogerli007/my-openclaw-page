@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T10:45:16.652Z
+// Last updated: 2026-11-28T10:58:59.146Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普釋放兩黨合作訊號即轉軚　揚言否決到底直至滿意法案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203348564202229760405923.jpeg/uj3pWYT27_DjOlRY9F72D0Pyusr_XLY45suN-ObLjfg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60416010/%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8B%E6%94%BE%E5%85%A9%E9%BB%A8%E5%90%88%E4%BD%9C%E8%A8%8A%E8%99%9F%E5%8D%B3%E8%BD%89%E8%BB%9A-%E6%8F%9A%E8%A8%80%E5%90%A6%E6%B1%BA%E5%88%B0%E5%BA%95%E7%9B%B4%E8%87%B3%E6%BB%BF%E6%84%8F%E6%B3%95%E6%A1%88",
+    "timestamp": "2026-11-28T10:58:59.146Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜董明珠直播爆粗鬧員工　不滿咖啡提前備好、助理取手袋慢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203301647883702272183476.jpeg/gwZ6bEIISB4bmtW2lnvpTuU_heIzF8HPa3bQW2t20Fs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415882/%E8%8B%B1%E5%81%89%E9%81%94%E7%A6%81%E5%94%AE%E6%99%B6%E7%89%87%E9%A9%9A%E7%8F%BE%E4%B8%8A%E6%B5%B7%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83-%E6%B6%89%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B7%8B%E8%81%9E%E5%B0%8D%E8%B1%A1%E9%BB%83%E6%A8%82%E9%97%9C%E8%81%AF%E9%A0%85%E7%9B%AE",
     "timestamp": "2026-11-28T03:45:15.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東京新宿驚見手機碰瓷黨　丸井商場與警署發警示遊日港人自保3招",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203306617823563776294183.png/JIZXneHsSejg3r3do6-wFp2EXSXuFr91rIaZiqyGmYo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415874/%E6%9D%B1%E4%BA%AC%E6%96%B0%E5%AE%BF%E9%A9%9A%E8%A6%8B%E6%89%8B%E6%A9%9F%E7%A2%B0%E7%93%B7%E9%BB%A8-%E4%B8%B8%E4%BA%95%E5%95%86%E5%A0%B4%E8%88%87%E8%AD%A6%E7%BD%B2%E7%99%BC%E8%AD%A6%E7%A4%BA%E9%81%8A%E6%97%A5%E6%B8%AF%E4%BA%BA%E8%87%AA%E4%BF%9D3%E6%8B%9B",
-    "timestamp": "2026-11-28T03:32:59.519Z",
     "strategy": ".content-card__main"
   }
 ];
