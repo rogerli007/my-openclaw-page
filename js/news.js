@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T06:50:30.657Z
+// Last updated: 2026-11-28T07:20:12.801Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金正恩或訪華　 韓國情報當局緊盯中朝互動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203349033012170752861593.jpeg/KJsaEzf90Aokr3y7GxdPGS2jSUw4tF_x4tqMuOLajLg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415911/%E9%87%91%E6%AD%A3%E6%81%A9%E6%88%96%E8%A8%AA%E8%8F%AF-%E9%9F%93%E5%9C%8B%E6%83%85%E5%A0%B1%E7%95%B6%E5%B1%80%E7%B7%8A%E7%9B%AF%E4%B8%AD%E6%9C%9D%E4%BA%92%E5%8B%95",
+    "timestamp": "2026-11-28T07:20:12.801Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片︱屯門建發里工廈外牆棚架陷火海　濃煙席捲半空　消防灌救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203247899912179712024963.jpeg/wFDRMXJBtNGLUxObnHjWoNI7HgMN4c6Qxj2F5MY9heQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415851/%E8%90%BD%E9%A6%AC%E6%B4%B2%E5%9D%91%E9%A0%AD%E6%9D%91%E5%85%AD%E6%97%AC%E7%BF%81%E6%B6%89%E6%94%9C%E4%BB%BF%E8%A3%BD%E6%A7%8D%E6%A2%B0%E8%A2%AB%E6%8D%95-%E8%AD%A6%E6%AA%A2%E5%85%A9%E5%81%87%E6%A7%8D",
     "timestamp": "2026-11-27T23:59:10.029Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "飯後有便意非腸胃差？醫拆解「胃結腸反射」機制　附4大腸道警號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201925384925351936923058.jpeg/gSFlz5M8Fff3vG9OE4XC6rWxMKwHo9IvGYhGHhmIRh4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60413451/%E9%A3%AF%E5%BE%8C%E6%9C%89%E4%BE%BF%E6%84%8F%E9%9D%9E%E8%85%B8%E8%83%83%E5%B7%AE-%E9%86%AB%E6%8B%86%E8%A7%A3-%E8%83%83%E7%B5%90%E8%85%B8%E5%8F%8D%E5%B0%84-%E6%A9%9F%E5%88%B6-%E9%99%844%E5%A4%A7%E8%85%B8%E9%81%93%E8%AD%A6%E8%99%9F",
-    "timestamp": "2026-11-27T23:45:22.926Z",
     "strategy": ".content-card__main"
   }
 ];
