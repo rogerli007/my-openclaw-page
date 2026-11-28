@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T04:32:31.720Z
+// Last updated: 2026-11-28T04:45:27.048Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "挪威大西洋航空受伊朗戰爭推高油價影響　宣告破產停飛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203322849952010240596302.jpeg/SSYRvDFd5Wf2cS6vZG28XsB8ycp6brA3G_vwLRv78C0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415892/%E6%8C%AA%E5%A8%81%E5%A4%A7%E8%A5%BF%E6%B4%8B%E8%88%AA%E7%A9%BA%E5%8F%97%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%8E%A8%E9%AB%98%E6%B2%B9%E5%83%B9%E5%BD%B1%E9%9F%BF-%E5%AE%A3%E5%91%8A%E7%A0%B4%E7%94%A2%E5%81%9C%E9%A3%9B",
+    "timestamp": "2026-11-28T04:45:27.048Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "居港8年被同化？港漂男稱已習慣港人4大文化：生活久了回不去內地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203084812592877568427163.jpeg/pgWizbxvMiVN0bVzXk-ObEptMKIG2pIOm4qwSJuKsEg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415846/%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E5%B0%8E%E4%BA%BA%E4%B9%8B%E5%AD%90%E5%9C%A8%E4%BB%A5%E8%BB%8D%E6%9A%97%E6%AE%BA%E8%A1%8C%E5%8B%95%E4%B8%AD%E5%80%96%E5%AD%98-%E5%8F%A6%E5%A4%96%E5%9B%9B%E5%AD%90%E5%85%88%E5%89%8D%E7%9A%86%E9%81%AD%E6%AE%BA%E5%AE%B3",
     "timestamp": "2026-11-27T21:30:03.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈馬斯領導人之子在以軍暗殺行動中倖存　另外四子先前皆遭殺害",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203084812592877568427163.jpeg/pgWizbxvMiVN0bVzXk-ObEptMKIG2pIOm4qwSJuKsEg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415846/%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E5%B0%8E%E4%BA%BA%E4%B9%8B%E5%AD%90%E5%9C%A8%E4%BB%A5%E8%BB%8D%E6%9A%97%E6%AE%BA%E8%A1%8C%E5%8B%95%E4%B8%AD%E5%80%96%E5%AD%98-%E5%8F%A6%E5%A4%96%E5%9B%9B%E5%AD%90%E5%85%88%E5%89%8D%E7%9A%86%E9%81%AD%E6%AE%BA%E5%AE%B3",
-    "timestamp": "2026-11-27T21:19:07.962Z",
     "strategy": ".content-card__main"
   }
 ];
