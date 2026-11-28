@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T05:20:19.751Z
+// Last updated: 2026-11-28T05:45:36.481Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本宮城縣山中發現2具遺體　其中1人疑為失蹤女高中生　1男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203340884171558912051726.png/9TqKdk45Bp2WimPp0QJFCftLIMTDJOVez-Fgks_hYJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415895/%E6%97%A5%E6%9C%AC%E5%AE%AE%E5%9F%8E%E7%B8%A3%E5%B1%B1%E4%B8%AD%E7%99%BC%E7%8F%BE2%E5%85%B7%E9%81%BA%E9%AB%94-%E5%85%B6%E4%B8%AD1%E4%BA%BA%E7%96%91%E7%82%BA%E5%A4%B1%E8%B9%A4%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F-1%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-28T05:45:36.481Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "糖尿病飲食｜全家吃炒麵確診糖尿病！醫揭1關鍵100%中招5食物預防",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202664341833256960352109.png/ydQJ5Dx9RGCLGkaArkumJnh0C9FimSuYv942Vb_eNlU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60415774/%E5%B7%A5%E5%BB%A0%E9%A3%B2%E6%B0%B4%E6%A9%9F%E8%B2%BC-%E9%A4%93%E4%BA%86%E5%9D%91%E8%A3%A1%E6%9C%89-%E4%BE%AE%E8%BE%B1%E5%AD%97%E6%A2%9D-%E5%BB%A0%E6%96%B9%E8%AA%8D%E4%BD%8E%E4%BF%97-%E8%81%B7%E5%93%A1%E5%B7%B2%E5%AF%AB%E6%AA%A2%E8%A8%8E",
     "timestamp": "2026-11-27T22:19:38.622Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈馬斯領導人之子在以軍暗殺行動中倖存　另外四子先前皆遭殺害",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203084812592877568427163.jpeg/pgWizbxvMiVN0bVzXk-ObEptMKIG2pIOm4qwSJuKsEg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415846/%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E5%B0%8E%E4%BA%BA%E4%B9%8B%E5%AD%90%E5%9C%A8%E4%BB%A5%E8%BB%8D%E6%9A%97%E6%AE%BA%E8%A1%8C%E5%8B%95%E4%B8%AD%E5%80%96%E5%AD%98-%E5%8F%A6%E5%A4%96%E5%9B%9B%E5%AD%90%E5%85%88%E5%89%8D%E7%9A%86%E9%81%AD%E6%AE%BA%E5%AE%B3",
-    "timestamp": "2026-11-27T21:59:02.105Z",
     "strategy": ".content-card__main"
   }
 ];
