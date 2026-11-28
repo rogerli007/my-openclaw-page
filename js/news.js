@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T08:32:56.498Z
+// Last updated: 2026-11-28T08:59:13.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "資料外泄｜建造業議會APP遭未經授權存取　涉50萬工人姓名等資料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203387660974952448219478.png/j8vZsZFy7IjDP2kRywmEiN30gB1kHfvuQb3f-UG93_k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415948/%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84-%E5%BB%BA%E9%80%A0%E6%A5%AD%E8%AD%B0%E6%9C%83app%E9%81%AD%E6%9C%AA%E7%B6%93%E6%8E%88%E6%AC%8A%E5%AD%98%E5%8F%96-%E6%B6%8950%E8%90%AC%E5%B7%A5%E4%BA%BA%E5%A7%93%E5%90%8D%E7%AD%89%E8%B3%87%E6%96%99",
+    "timestamp": "2026-11-28T08:59:13.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓音樂劇教父南京柱涉性侵女學生　認試圖性交否認施壓　30日宣判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194820513118031872862149.jpeg/0-3VuYU06aEWGRiOKEtwzCLNAAusPvtEtfX4rbX1-K0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414265/1-02%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E5%85%A8%E9%A4%90%E5%A5%87%E6%8B%9B-220%E8%B2%B7%E9%BD%8A49%E5%80%8B%E8%99%9F%E7%A2%BC-%E9%81%8E%E4%BE%86%E4%BA%BA%E5%AF%A6%E6%B8%AC-%E8%BC%83%E5%AE%B9%E6%98%93%E4%B8%AD",
     "timestamp": "2026-11-28T01:48:45.434Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "12星座誰最難追｜公認最難攻略星座Top4！第1名忽冷忽熱最難捉摸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201951101541158912827439.png/25ceBVIBSVSX07Epw-Cro9mBiGKUUb4s9kZfgPZGX4A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414315/12%E6%98%9F%E5%BA%A7%E8%AA%B0%E6%9C%80%E9%9B%A3%E8%BF%BD-%E5%85%AC%E8%AA%8D%E6%9C%80%E9%9B%A3%E6%94%BB%E7%95%A5%E6%98%9F%E5%BA%A7top4-%E7%AC%AC1%E5%90%8D%E5%BF%BD%E5%86%B7%E5%BF%BD%E7%86%B1%E6%9C%80%E9%9B%A3%E6%8D%89%E6%91%B8",
-    "timestamp": "2026-11-28T01:21:08.660Z",
     "strategy": ".content-card__main"
   }
 ];
