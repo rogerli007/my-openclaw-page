@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T03:32:59.519Z
+// Last updated: 2026-11-28T03:45:15.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英偉達禁售晶片驚現上海數據中心　涉黃仁勳緋聞對象黃樂關聯項目",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203301647883702272183476.jpeg/gwZ6bEIISB4bmtW2lnvpTuU_heIzF8HPa3bQW2t20Fs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415882/%E8%8B%B1%E5%81%89%E9%81%94%E7%A6%81%E5%94%AE%E6%99%B6%E7%89%87%E9%A9%9A%E7%8F%BE%E4%B8%8A%E6%B5%B7%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83-%E6%B6%89%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B7%8B%E8%81%9E%E5%B0%8D%E8%B1%A1%E9%BB%83%E6%A8%82%E9%97%9C%E8%81%AF%E9%A0%85%E7%9B%AE",
+    "timestamp": "2026-11-28T03:45:15.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東京新宿驚見手機碰瓷黨　丸井商場與警署發警示遊日港人自保3招",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203084812592877568427163.jpeg/pgWizbxvMiVN0bVzXk-ObEptMKIG2pIOm4qwSJuKsEg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415846/%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E5%B0%8E%E4%BA%BA%E4%B9%8B%E5%AD%90%E5%9C%A8%E4%BB%A5%E8%BB%8D%E6%9A%97%E6%AE%BA%E8%A1%8C%E5%8B%95%E4%B8%AD%E5%80%96%E5%AD%98-%E5%8F%A6%E5%A4%96%E5%9B%9B%E5%AD%90%E5%85%88%E5%89%8D%E7%9A%86%E9%81%AD%E6%AE%BA%E5%AE%B3",
     "timestamp": "2026-11-27T20:45:44.889Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛蝶灣住宅睡房疑拖板過熱起火　男戶主遭燒傷　男鄰居逃生撞傷手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203179617616138240157806.jpeg/ebhVlhs7HlV5hIds6on-S7V4MibPaOI29Rc3fc8XN30?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415841/%E6%84%9B%E8%9D%B6%E7%81%A3%E4%BD%8F%E5%AE%85%E7%9D%A1%E6%88%BF%E7%96%91%E6%8B%96%E6%9D%BF%E9%81%8E%E7%86%B1%E8%B5%B7%E7%81%AB-%E7%94%B7%E6%88%B6%E4%B8%BB%E9%81%AD%E7%87%92%E5%82%B7-%E7%94%B7%E9%84%B0%E5%B1%85%E9%80%83%E7%94%9F%E6%92%9E%E5%82%B7%E6%89%8B",
-    "timestamp": "2026-11-27T20:20:04.846Z",
     "strategy": ".content-card__main"
   }
 ];
