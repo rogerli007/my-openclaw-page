@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T09:59:04.982Z
+// Last updated: 2026-11-28T10:19:22.147Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長崎原爆資料館把南京大屠殺表述改稱「事件」　新華社：多方反對",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203411994053447680243659.png/J6BIUoPo6mR15V5BBcuCXprKgiVC7MnasBaX_7AWl_8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415991/%E9%95%B7%E5%B4%8E%E5%8E%9F%E7%88%86%E8%B3%87%E6%96%99%E9%A4%A8%E6%8A%8A%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%AE%BA%E8%A1%A8%E8%BF%B0%E6%94%B9%E7%A8%B1-%E4%BA%8B%E4%BB%B6-%E6%96%B0%E8%8F%AF%E7%A4%BE-%E5%A4%9A%E6%96%B9%E5%8F%8D%E5%B0%8D",
+    "timestamp": "2026-11-28T10:19:22.147Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門棚架火︱工人親述逃生經過：未聞警鐘響　廠長察起火帶隊疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202663810087784448821653.jpeg/SXN89cwoWncbnmNafjfsYznT8wT-mnKalq3cuJat3Lg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60415881/%E6%B2%B9%E5%A1%98%E6%93%8E%E6%B5%B7ii%E4%BB%8A%E9%A6%96%E8%BC%AA%E8%B3%A3128%E4%BC%99-%E5%85%A5%E5%A0%B4%E8%B2%BB395%E8%90%AC-%E5%A4%A7%E6%89%8B%E5%AE%A2%E6%93%AC%E9%80%BE2000%E8%90%AC%E8%B2%B74%E4%BC%99",
     "timestamp": "2026-11-28T03:21:39.359Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "授勳儀式｜楊德強等40人獲銅紫荊星章　Now新聞主管陳鐵彪未現身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148707135262035968740983.jpeg/5sVQDJDwvc0NlQndUTmQPUfgBIlB_PLUbOXc7Gzl3Ow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60415856/%E6%8E%88%E5%8B%B3%E5%84%80%E5%BC%8F-%E6%A5%8A%E5%BE%B7%E5%BC%B7%E7%AD%8940%E4%BA%BA%E7%8D%B2%E9%8A%85%E7%B4%AB%E8%8D%8A%E6%98%9F%E7%AB%A0-now%E6%96%B0%E8%81%9E%E4%B8%BB%E7%AE%A1%E9%99%B3%E9%90%B5%E5%BD%AA%E6%9C%AA%E7%8F%BE%E8%BA%AB",
-    "timestamp": "2026-11-28T02:59:00.343Z",
     "strategy": ".content-card__main"
   }
 ];
