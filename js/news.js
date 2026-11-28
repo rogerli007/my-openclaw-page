@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T11:18:49.731Z
+// Last updated: 2026-11-28T11:29:34.532Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI女版馬份戀哈利爆紅　作者借鑑梁朝偉眼神戲創作更為粉絲改結局",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203420165912924160690384.png/xRvtWAT91lxYb46LLU2uHkatVmhPnOwa32Mkdd9jJHU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60416014/ai%E5%A5%B3%E7%89%88%E9%A6%AC%E4%BB%BD%E6%88%80%E5%93%88%E5%88%A9%E7%88%86%E7%B4%85-%E4%BD%9C%E8%80%85%E5%80%9F%E9%91%91%E6%A2%81%E6%9C%9D%E5%81%89%E7%9C%BC%E7%A5%9E%E6%88%B2%E5%89%B5%E4%BD%9C%E6%9B%B4%E7%82%BA%E7%B2%89%E7%B5%B2%E6%94%B9%E7%B5%90%E5%B1%80",
+    "timestamp": "2026-11-28T11:29:34.532Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI女版馬份戀哈利爆紅　作者借鑑梁朝偉眼神戲創作更為粉絲改結局",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202986605434900480869713.jpeg/S6VjTdQavpdUCVzAcFymosqDX_vPegsgp2tN0KdrTdA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60415406/%E5%B1%85%E6%B8%AF8%E5%B9%B4%E8%A2%AB%E5%90%8C%E5%8C%96-%E6%B8%AF%E6%BC%82%E7%94%B7%E7%A8%B1%E5%B7%B2%E7%BF%92%E6%85%A3%E6%B8%AF%E4%BA%BA4%E5%A4%A7%E6%96%87%E5%8C%96-%E7%94%9F%E6%B4%BB%E4%B9%85%E4%BA%86%E5%9B%9E%E4%B8%8D%E5%8E%BB%E5%85%A7%E5%9C%B0",
     "timestamp": "2026-11-28T04:32:31.720Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英偉達禁售晶片驚現上海數據中心　涉黃仁勳緋聞對象黃樂關聯項目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203301647883702272183476.jpeg/gwZ6bEIISB4bmtW2lnvpTuU_heIzF8HPa3bQW2t20Fs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415882/%E8%8B%B1%E5%81%89%E9%81%94%E7%A6%81%E5%94%AE%E6%99%B6%E7%89%87%E9%A9%9A%E7%8F%BE%E4%B8%8A%E6%B5%B7%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83-%E6%B6%89%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B7%8B%E8%81%9E%E5%B0%8D%E8%B1%A1%E9%BB%83%E6%A8%82%E9%97%9C%E8%81%AF%E9%A0%85%E7%9B%AE",
-    "timestamp": "2026-11-28T03:59:12.369Z",
     "strategy": ".content-card__main"
   }
 ];
