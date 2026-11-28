@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T01:48:45.434Z
+// Last updated: 2026-11-28T02:23:37.764Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雨僑談兩孩媽媽難處坦言最難平衡對子女的愛　珍惜親自接放學時光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203236000306827264971483.png/-TiPCXcuE6AYLUeRDzMyEdwT39eudbz-ki5Z7pIuWe4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60415849/%E9%9B%A8%E5%83%91%E8%AB%87%E5%85%A9%E5%AD%A9%E5%AA%BD%E5%AA%BD%E9%9B%A3%E8%99%95%E5%9D%A6%E8%A8%80%E6%9C%80%E9%9B%A3%E5%B9%B3%E8%A1%A1%E5%B0%8D%E5%AD%90%E5%A5%B3%E7%9A%84%E6%84%9B-%E7%8F%8D%E6%83%9C%E8%A6%AA%E8%87%AA%E6%8E%A5%E6%94%BE%E5%AD%B8%E6%99%82%E5%85%89",
+    "timestamp": "2026-11-28T02:23:37.764Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "$1.02億六合彩全餐奇招│$220買齊49個號碼！過來人實測：較容易中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203179617616138240157806.jpeg/ebhVlhs7HlV5hIds6on-S7V4MibPaOI29Rc3fc8XN30?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415841/%E6%84%9B%E8%9D%B6%E7%81%A3%E4%BD%8F%E5%AE%85%E7%9D%A1%E6%88%BF%E7%96%91%E6%8B%96%E6%9D%BF%E9%81%8E%E7%86%B1%E8%B5%B7%E7%81%AB-%E7%94%B7%E6%88%B6%E4%B8%BB%E9%81%AD%E7%87%92%E5%82%B7-%E7%94%B7%E9%84%B0%E5%B1%85%E9%80%83%E7%94%9F%E6%92%9E%E5%82%B7%E6%89%8B",
     "timestamp": "2026-11-27T19:17:52.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港迪士尼樂園遇竊　男子偷取100件商品值$2萬　警拘男賊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203176573075722240429368.jpeg/nTo-hMSq97RirZswMASpgY56ssNw-VC2HIRfQByEX0A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415843/%E9%A6%99%E6%B8%AF%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92%E9%81%87%E7%AB%8A-%E7%94%B7%E5%AD%90%E5%81%B7%E5%8F%96100%E4%BB%B6%E5%95%86%E5%93%81%E5%80%BC-2%E8%90%AC-%E8%AD%A6%E6%8B%98%E7%94%B7%E8%B3%8A",
-    "timestamp": "2026-11-27T18:59:11.925Z",
     "strategy": ".content-card__main"
   }
 ];
