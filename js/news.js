@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T05:45:36.481Z
+// Last updated: 2026-11-28T05:59:16.569Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本女格鬥家岡本璃奈暴打男友被捕　騎身上拳打腳踢遭無限期禁賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203340556848074752293675.jpeg/XsZo8r8ihaach7PyfPYPA651Vf1U6Su1SFHnoEhR56A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415898/%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%A0%BC%E9%AC%A5%E5%AE%B6%E5%B2%A1%E6%9C%AC%E7%92%83%E5%A5%88%E6%9A%B4%E6%89%93%E7%94%B7%E5%8F%8B%E8%A2%AB%E6%8D%95-%E9%A8%8E%E8%BA%AB%E4%B8%8A%E6%8B%B3%E6%89%93%E8%85%B3%E8%B8%A2%E9%81%AD%E7%84%A1%E9%99%90%E6%9C%9F%E7%A6%81%E8%B3%BD",
+    "timestamp": "2026-11-28T05:59:16.569Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本宮城縣山中發現2具遺體　其中1人疑為失蹤女高中生　1男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203238858477539328203976.jpeg/JW_Ig9o0Av1ueDMpKp3Xpe4Vpj27b7ESQDVu93o1bvc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415850/%E8%8D%83%E7%81%A3%E7%B6%A0%E6%A5%8A%E5%9D%8A35%E6%AD%B2%E7%94%B7%E4%BF%9D%E5%AE%89%E6%9A%88%E5%80%92-%E5%90%8C%E4%BA%8B%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-11-27T22:59:03.607Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "工廠飲水機貼「餓了坑裡有」侮辱字條！廠方認低俗：職員已寫檢討",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202664341833256960352109.png/ydQJ5Dx9RGCLGkaArkumJnh0C9FimSuYv942Vb_eNlU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60415774/%E5%B7%A5%E5%BB%A0%E9%A3%B2%E6%B0%B4%E6%A9%9F%E8%B2%BC-%E9%A4%93%E4%BA%86%E5%9D%91%E8%A3%A1%E6%9C%89-%E4%BE%AE%E8%BE%B1%E5%AD%97%E6%A2%9D-%E5%BB%A0%E6%96%B9%E8%AA%8D%E4%BD%8E%E4%BF%97-%E8%81%B7%E5%93%A1%E5%B7%B2%E5%AF%AB%E6%AA%A2%E8%A8%8E",
-    "timestamp": "2026-11-27T22:19:38.622Z",
     "strategy": ".content-card__main"
   }
 ];
