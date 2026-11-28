@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T09:20:53.812Z
+// Last updated: 2026-11-28T09:45:31.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西沙GO PARK明年1月首辦公益金慈善馬拉松　採全新半馬10公里賽道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203401353087422464460178.jpeg/BQ_UdwtdfA9xdL2g55AjExTb9OV3zzi66FBRY-hQUWM?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60415971/%E8%A5%BF%E6%B2%99go-park%E6%98%8E%E5%B9%B41%E6%9C%88%E9%A6%96%E8%BE%A6%E5%85%AC%E7%9B%8A%E9%87%91%E6%85%88%E5%96%84%E9%A6%AC%E6%8B%89%E6%9D%BE-%E6%8E%A1%E5%85%A8%E6%96%B0%E5%8D%8A%E9%A6%AC10%E5%85%AC%E9%87%8C%E8%B3%BD%E9%81%93",
+    "timestamp": "2026-11-28T09:45:31.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美人魚陳惠珠病逝享壽92歲！昔當紅女星為夫息影　未能返台成遺憾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203077144008331264347658.jpeg/mD5K5cXEVWJ6bk9yup8JNhDN7NeAKrJwDuFZpA7hWaQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60415784/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89%E8%A7%80%E5%AF%9F-%E8%A2%AB-%E5%8F%96%E6%8D%A8-%E7%9A%84%E9%84%AD%E9%BA%97%E6%96%87-%E4%B8%80%E5%A0%B4%E6%B2%92%E6%9C%89%E5%9C%8B%E6%B0%91%E9%BB%A8%E4%B8%BB%E5%B8%AD%E7%9A%84%E9%81%B8%E6%88%B0",
     "timestamp": "2026-11-28T02:36:40.047Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雨僑談兩孩媽媽難處坦言最難平衡對子女的愛　珍惜親自接放學時光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203236000306827264971483.png/-TiPCXcuE6AYLUeRDzMyEdwT39eudbz-ki5Z7pIuWe4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60415849/%E9%9B%A8%E5%83%91%E8%AB%87%E5%85%A9%E5%AD%A9%E5%AA%BD%E5%AA%BD%E9%9B%A3%E8%99%95%E5%9D%A6%E8%A8%80%E6%9C%80%E9%9B%A3%E5%B9%B3%E8%A1%A1%E5%B0%8D%E5%AD%90%E5%A5%B3%E7%9A%84%E6%84%9B-%E7%8F%8D%E6%83%9C%E8%A6%AA%E8%87%AA%E6%8E%A5%E6%94%BE%E5%AD%B8%E6%99%82%E5%85%89",
-    "timestamp": "2026-11-28T02:23:37.764Z",
     "strategy": ".content-card__main"
   }
 ];
