@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T05:59:16.569Z
+// Last updated: 2026-11-28T06:25:59.636Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "資料外泄｜數字辦：促各部門檢查敏感資料系統　強化事故通報機制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203345560052961280896142.jpeg/ocFsRW76GQlDtJIaM-yuVTmcrvgtOMziHD3pKxw96Ss?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415908/%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84-%E6%95%B8%E5%AD%97%E8%BE%A6-%E4%BF%83%E5%90%84%E9%83%A8%E9%96%80%E6%AA%A2%E6%9F%A5%E6%95%8F%E6%84%9F%E8%B3%87%E6%96%99%E7%B3%BB%E7%B5%B1-%E5%BC%B7%E5%8C%96%E4%BA%8B%E6%95%85%E9%80%9A%E5%A0%B1%E6%A9%9F%E5%88%B6",
+    "timestamp": "2026-11-28T06:25:59.636Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本女格鬥家岡本璃奈暴打男友被捕　騎身上拳打腳踢遭無限期禁賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202330758195187712542086.jpeg/BONwkLKLWnkOh_5-2JVBQWZOZ1sqCXQ2tueN0LbnjdA",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414980/%E7%A5%9E%E7%A7%98-%E8%A6%96%E8%A6%BA%E9%8C%AF%E8%A6%BA%E5%9C%96-%E7%98%8B%E5%82%B3-%E4%BD%A0%E7%9C%8B%E5%88%B0%E4%BB%80%E9%BA%BC%E6%95%B8%E5%AD%97-%E8%A6%8B%E5%88%B0%E9%80%99%E7%B5%84%E6%95%B8%E5%AD%97%E8%A6%81%E6%B1%82%E9%86%AB",
     "timestamp": "2026-11-27T23:19:02.174Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣綠楊坊35歲男保安暈倒　同事報案　送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203238858477539328203976.jpeg/JW_Ig9o0Av1ueDMpKp3Xpe4Vpj27b7ESQDVu93o1bvc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415850/%E8%8D%83%E7%81%A3%E7%B6%A0%E6%A5%8A%E5%9D%8A35%E6%AD%B2%E7%94%B7%E4%BF%9D%E5%AE%89%E6%9A%88%E5%80%92-%E5%90%8C%E4%BA%8B%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-11-27T22:59:03.607Z",
     "strategy": ".content-card__main"
   }
 ];
