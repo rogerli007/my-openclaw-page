@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T00:57:38.218Z
+// Last updated: 2026-11-28T01:21:08.660Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "12星座誰最難追｜公認最難攻略星座Top4！第1名忽冷忽熱最難捉摸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201951101541158912827439.png/25ceBVIBSVSX07Epw-Cro9mBiGKUUb4s9kZfgPZGX4A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414315/12%E6%98%9F%E5%BA%A7%E8%AA%B0%E6%9C%80%E9%9B%A3%E8%BF%BD-%E5%85%AC%E8%AA%8D%E6%9C%80%E9%9B%A3%E6%94%BB%E7%95%A5%E6%98%9F%E5%BA%A7top4-%E7%AC%AC1%E5%90%8D%E5%BF%BD%E5%86%B7%E5%BF%BD%E7%86%B1%E6%9C%80%E9%9B%A3%E6%8D%89%E6%91%B8",
+    "timestamp": "2026-11-28T01:21:08.660Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "科技巨頭撕破臉！OpenAI反訴蘋果竊商業機密　設局陷害離職員工",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203170402860273664564798.png/tVYKi0KeW1L7JPpgoD8n80zWtWl1lm2PzAAr9cwAK_U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415837/%E7%BE%8E%E8%BB%8D%E9%98%BF%E6%9B%BC%E7%81%A3%E6%94%94%E9%98%BB%E8%A9%A6%E5%9C%96%E9%9B%A2%E9%96%8B%E4%BC%8A%E6%9C%97%E5%95%86%E8%88%B9-%E5%BE%B7%E9%BB%91%E8%98%AD%E8%AA%93%E8%A8%80%E5%B0%8D%E6%8A%97%E5%B0%81%E9%8E%96",
     "timestamp": "2026-11-27T18:45:10.183Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍阿曼灣攔阻試圖離開伊朗商船　德黑蘭誓言對抗封鎖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203170402860273664564798.png/tVYKi0KeW1L7JPpgoD8n80zWtWl1lm2PzAAr9cwAK_U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415837/%E7%BE%8E%E8%BB%8D%E9%98%BF%E6%9B%BC%E7%81%A3%E6%94%94%E9%98%BB%E8%A9%A6%E5%9C%96%E9%9B%A2%E9%96%8B%E4%BC%8A%E6%9C%97%E5%95%86%E8%88%B9-%E5%BE%B7%E9%BB%91%E8%98%AD%E8%AA%93%E8%A8%80%E5%B0%8D%E6%8A%97%E5%B0%81%E9%8E%96",
-    "timestamp": "2026-11-27T18:33:46.614Z",
     "strategy": ".content-card__main"
   }
 ];
