@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-28T02:36:40.047Z
+// Last updated: 2026-11-28T02:59:00.343Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "授勳儀式｜楊德強等40人獲銅紫荊星章　Now新聞主管陳鐵彪未現身",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148707135262035968740983.jpeg/5sVQDJDwvc0NlQndUTmQPUfgBIlB_PLUbOXc7Gzl3Ow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60415856/%E6%8E%88%E5%8B%B3%E5%84%80%E5%BC%8F-%E6%A5%8A%E5%BE%B7%E5%BC%B7%E7%AD%8940%E4%BA%BA%E7%8D%B2%E9%8A%85%E7%B4%AB%E8%8D%8A%E6%98%9F%E7%AB%A0-now%E6%96%B0%E8%81%9E%E4%B8%BB%E7%AE%A1%E9%99%B3%E9%90%B5%E5%BD%AA%E6%9C%AA%E7%8F%BE%E8%BA%AB",
+    "timestamp": "2026-11-28T02:59:00.343Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣選舉觀察｜被「取捨」的鄭麗文   一場沒有國民黨主席的選戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203179617616138240157806.jpeg/ebhVlhs7HlV5hIds6on-S7V4MibPaOI29Rc3fc8XN30?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415841/%E6%84%9B%E8%9D%B6%E7%81%A3%E4%BD%8F%E5%AE%85%E7%9D%A1%E6%88%BF%E7%96%91%E6%8B%96%E6%9D%BF%E9%81%8E%E7%86%B1%E8%B5%B7%E7%81%AB-%E7%94%B7%E6%88%B6%E4%B8%BB%E9%81%AD%E7%87%92%E5%82%B7-%E7%94%B7%E9%84%B0%E5%B1%85%E9%80%83%E7%94%9F%E6%92%9E%E5%82%B7%E6%89%8B",
     "timestamp": "2026-11-27T19:45:08.140Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛蝶灣住宅睡房疑拖板過熱起火　男戶主遭燒傷　男鄰居逃生撞傷手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203179617616138240157806.jpeg/ebhVlhs7HlV5hIds6on-S7V4MibPaOI29Rc3fc8XN30?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415841/%E6%84%9B%E8%9D%B6%E7%81%A3%E4%BD%8F%E5%AE%85%E7%9D%A1%E6%88%BF%E7%96%91%E6%8B%96%E6%9D%BF%E9%81%8E%E7%86%B1%E8%B5%B7%E7%81%AB-%E7%94%B7%E6%88%B6%E4%B8%BB%E9%81%AD%E7%87%92%E5%82%B7-%E7%94%B7%E9%84%B0%E5%B1%85%E9%80%83%E7%94%9F%E6%92%9E%E5%82%B7%E6%89%8B",
-    "timestamp": "2026-11-27T19:29:39.109Z",
     "strategy": ".content-card__main"
   }
 ];
